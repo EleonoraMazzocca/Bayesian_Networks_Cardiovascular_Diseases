@@ -1,2 +1,2 @@
-# Bayesian_Statistics_SocialMedia_Health
-FInal project of Bayesian Statistics: Social Media Impact on Teen Mental Health
+# Bayesian Networks Cardiovascular MCMC
+Final project of Bayesian Statistics: Bayesian Networks & MCMC applied to data of Cardiovascular diseases.
